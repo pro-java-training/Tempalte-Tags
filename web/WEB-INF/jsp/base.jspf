@@ -1,0 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+<%@ taglib prefix="template" tagdir="/WEB-INF/tags/template" %>
+<%--<%@ taglib prefix="codve" uri="http://www.codve.com/jsp/tld/codve" %>--%>
